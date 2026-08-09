@@ -1,7 +1,13 @@
 {
   "name": "挨饿荒野[2.6.3]菜单云端配置",
   "version": "1.0.0",
-  "notice": "云菜单已同步！新增：随意摆放建造修复说明",
+  "noticeTitle": "菜单公告",
+  "notice": "欢迎使用挨饿荒野菜单！\n这里可以放你的公告内容。\n想要换行就写 \\n",
+  "remote": {
+    "enable": false,
+    "delay": 3,
+    "text": "游戏即将停止运行"
+  },
   "features": [
     "Collapse_云端新增分类",
     "CollapseAdd_41_CheckBox_云端示例开关",
