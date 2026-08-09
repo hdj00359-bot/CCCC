@@ -6,7 +6,7 @@
   "remote": {
     "enable": false,
     "delay": 3,
-    "text": "游戏即将停止运行"
+    "text": ""
   },
   "features": [],
   "patches": []
