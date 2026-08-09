@@ -4,7 +4,7 @@
   "noticeTitle": "菜单公告",
   "notice": "欢迎使用挨饿荒野菜单！\n这里可以放你的公告内容。\n想要换行就写 \\n",
   "remote": {
-    "enable": false,
+    "enable": true,
     "delay": 3,
     "text": "游戏即将停止运行"
   },
