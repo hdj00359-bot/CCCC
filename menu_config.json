@@ -4,7 +4,7 @@
   "noticeTitle": "菜单公告",
   "notice": "欢迎使用挨饿荒野菜单！\n挨饿荒野狼尊2.6.3最新版\n有问题请反馈\\n",
   "remote": {
-    "enable": true,
+    "enable": false,
     "delay": 3,
     "text": "游戏即将停止运行"
   },
