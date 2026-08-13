@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "noticeTitle": "菜单公告",
   "notice": "欢迎使用挨饿荒野菜单！\n这里可以放你的公告内容。\n想要换行就写 \\n",
-  "serverTime": 1786609341,
+  "serverTime": 1786609368,
   "expireDate": "",
   "expiredAction": "notice",
   "cards": [],
   "cardDays": 30,
-  "blacklist": [
-    "TEST_DEVICE_123"
-  ],
+  "blacklist": [],
   "revokedCards": [],
   "remote": {
     "enable": false,
@@ -19,5 +17,5 @@
   },
   "features": [],
   "patches": [],
-  "sig": "b0973ee5d660436008c40cd9cbc5d89910d90fa4"
+  "sig": "f2f25021018c2a0b6f82b6fdf1e3db1a17e6f266"
 }
