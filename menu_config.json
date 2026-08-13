@@ -1,1 +1,21 @@
-{}
+{
+  "name": "挨饿荒野[2.6.3]菜单云端配置",
+  "version": "1.0.0",
+  "noticeTitle": "菜单公告",
+  "notice": "欢迎使用挨饿荒野菜单！\n这里可以放你的公告内容。\n想要换行就写 \\n",
+  "serverTime": 1786524338,
+  "expireDate": "",
+  "expiredAction": "notice",
+  "cards": [],
+  "cardDays": 30,
+  "blacklist": [],
+  "revokedCards": [],
+  "remote": {
+    "enable": false,
+    "delay": 3,
+    "text": "游戏即将停止运行"
+  },
+  "features": [],
+  "patches": [],
+  "sig": "3bfd65573f3f6034825d558ae2bcc42ae8f18dde"
+}
