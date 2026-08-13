@@ -1,9 +1,9 @@
 {
   "name": "挨饿荒野[2.6.3]菜单云端配置",
   "version": "1.0.0",
-  "noticeTitle": "菜单公告",
-  "notice": "欢迎使用挨饿荒野菜单！\n这里可以放你的公告内容。\n想要换行就写 \\n",
-  "serverTime": 1786621121,
+  "noticeTitle": "欢迎使用狼尊挨饿荒野MOD",
+  "notice": "欢迎使用挨饿荒野菜单！\n\n需要公益卡密请加群聊1097939610",
+  "serverTime": 1786663256,
   "expireDate": "",
   "expiredAction": "notice",
   "cards": [],
@@ -17,5 +17,5 @@
   },
   "features": [],
   "patches": [],
-  "sig": "7ee84068eb48f17a3fc2014ad5d4f46333d16327"
+  "sig": "e8cffe5cc5d027bedf54e37be50d194c12dd1bc9"
 }
