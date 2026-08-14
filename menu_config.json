@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "noticeTitle": "欢迎使用狼尊挨饿荒野MOD",
   "notice": "欢迎使用挨饿荒野菜单！\n\n需要公益卡密请加群聊1097939610",
-  "serverTime": 1786695634,
+  "serverTime": 1786695647,
   "expireDate": "",
   "expiredAction": "notice",
   "cards": [],
@@ -17,7 +17,8 @@
   },
   "features": [],
   "patches": [],
-  "sig": "009bb7f646cba46bb85b054218f38177419abbcc",
+  "sig": "b86d056be30413be8331f8edf4a0a1c45edb99f1",
   "settingMusic": "https://raw.githubusercontent.com/hdj00359-bot/CCCC/main/2e004588f4ad837a0908e0ae37e6a323.mp3",
-  "settingMusic2": "ttps://raw.githubusercontent.com/hdj00359-bot/CCCC/main/032adbdd3775132ffd9a9a938b906ac9.mp3"
+  "settingMusic2": "ttps://raw.githubusercontent.com/hdj00359-bot/CCCC/main/032adbdd3775132ffd9a9a938b906ac9.mp3",
+  "noticeImage": ""
 }
