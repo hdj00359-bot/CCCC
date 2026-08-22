@@ -11,7 +11,7 @@
   "blacklist": [],
   "revokedCards": [],
   "remote": {
-    "enable": fals,
+    "enable": false,
     "delay": 3,
     "text": "服务器异常"
   },
