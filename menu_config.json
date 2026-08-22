@@ -11,9 +11,9 @@
   "blacklist": [],
   "revokedCards": [],
   "remote": {
-    "enable": true,
+    "enable": fals,
     "delay": 3,
-    "text": "游戏即将停止运行"
+    "text": "服务器异常"
   },
   "features": [],
   "patches": [],
